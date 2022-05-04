@@ -1,0 +1,185 @@
+Qatar:128647
+Macao:115367
+Luxembourg:107641
+Singapore:94105
+Brunei:79003
+Ireland:76745
+United Arab Emirates:74035
+Kuwait:72096
+Switzerland:66307
+San Marino:63549
+Norway:62183
+Hong Kong:61671
+United States:59928
+Iceland:55322
+Netherlands:54422
+Denmark:54356
+Saudi Arabia:53893
+Austria:53879
+Germany:52556
+Sweden:51405
+Australia:49378
+Belgium:49367
+Bahrain:47708
+Canada:46510
+Finland:46344
+United Kingdom:44920
+France:44033
+Japan:42067
+Oman:41331
+Italy:40924
+Malta:40797
+New Zealand:40748
+Aruba:39493
+Spain:39037
+Israel:38868
+South Korea:38824
+Czech Republic:38020
+Slovenia:36387
+Cyprus:36012
+Estonia:33448
+Lithuania:33253
+Portugal:32554
+Slovakia:32371
+Trinidad and Tobago:31645
+Bahamas:30495
+Poland:29924
+Malaysia:29511
+Seychelles:29328
+Hungary:28799
+Saint Kitts & Nevis:28636
+Greece:28583
+Latvia:28362
+Turkey:28002
+Romania:26660
+Kazakhstan:26491
+Croatia:26296
+Russia:25763
+Chile:24747
+Panama:24521
+Equatorial Guinea:24439
+Antigua and Barbuda:23522
+Uruguay:22610
+Mauritius:22356
+Bulgaria:20948
+Iran:20885
+Argentina:20829
+Libya:19673
+Montenegro:19355
+Belarus:18896
+Mexico:18656
+Barbados:18559
+Gabon:18113
+Turkmenistan:18031
+Thailand:17910
+Azerbaijan:17450
+Costa Rica:17110
+Botswana:17024
+Iraq:16935
+China:16842
+Maldives:16688
+Dominican Republic:16064
+Brazil:15553
+Serbia:15432
+Algeria:15293
+North Macedonia:15290
+Suriname:15191
+Grenada:15156
+Palau:14854
+Lebanon:14513
+Colombia:14503
+Saint Lucia:13986
+South Africa:13526
+Peru:13463
+Paraguay:13109
+Bosnia and Herzegovina:13108
+Mongolia:12946
+Albania:12943
+Sri Lanka:12863
+Indonesia:12310
+Tunisia:11936
+St. Vincent & Grenadines:11769
+Ecuador:11612
+Egypt:11608
+Georgia:10674
+Namibia:10471
+Dominica:10037
+Armenia:9668
+Fiji:9575
+Bhutan:9392
+Jordan:9173
+Jamaica:9066
+Ukraine:8699
+Eswatini:8659
+Belize:8525
+Philippines:8361
+Morocco:8225
+Guyana:8180
+Guatemala:8168
+El Salvador:8023
+Bolivia:7576
+Timor-Leste:7228
+India:7166
+Laos:7038
+Cabo Verde:6913
+Uzbekistan:6880
+Vietnam:6790
+Angola:6658
+Samoa:6641
+Myanmar:6174
+Tonga:5969
+Nigeria:5887
+Nicaragua:5855
+Moldova:5711
+Pakistan:5539
+Congo:5454
+Honduras:4997
+Sudan:4914
+State of Palestine:4896
+Ghana:4502
+Marshall Islands:4247
+Papua New Guinea:4208
+Zambia:4033
+Cambodia:4018
+Mauritania:3958
+Cote d'Ivoire:3945
+Tuvalu:3933
+Bangladesh:3877
+Kyrgyzstan:3735
+Cameroon:3722
+Micronesia:3701
+Senegal:3458
+Sao Tome & Principe:3359
+Kenya:3292
+Vanuatu:3215
+Tajikistan:3202
+Tanzania:2948
+Lesotho:2932
+Comoros:2751
+Nepal:2702
+Yemen:2606
+Zimbabwe:2434
+Solomon Islands:2427
+Benin:2276
+Guinea:2247
+Mali:2218
+Kiribati:2185
+Rwanda:2043
+Afghanistan:1976
+Chad:1945
+Ethiopia:1903
+Uganda:1868
+Burkina Faso:1866
+Haiti:1819
+Guinea-Bissau:1704
+Gambia:1699
+Togo:1663
+Madagascar:1558
+Sierra Leone:1530
+Liberia:1285
+Mozambique:1250
+Malawi:1205
+Niger:1019
+DR Congo:889
+Burundi:735
+Central African Republic:727
